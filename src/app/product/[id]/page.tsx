@@ -291,7 +291,7 @@ export default function ProductDetailPage() {
           {/* Measurements (static for demo) */}
           <div>
             <h3 className="font-semibold text-gray-900 mb-2">Measurements</h3>
-            <p className="text-gray-600">17 1/2×20 5/8 "</p>
+            <p className="text-gray-600">17 1/2×20 5/8 </p>
           </div>
 
           {/* Color Selection Buttons */}

@@ -4,13 +4,7 @@ import { useState, useEffect } from "react";
 import { Product } from "@/types/product";
 import { api } from "@/lib/api";
 import ProductCard from "@/components/ProductCard";
-import {
-  Filter,
-  Grid3X3,
-  List,
-  MoreHorizontal,
-  ChevronDown,
-} from "lucide-react";
+import { Filter, ChevronDown } from "lucide-react";
 
 export default function HomePage() {
   // State for all products
@@ -153,7 +147,7 @@ export default function HomePage() {
           </nav>
           <h1 className="text-5xl font-medium text-gray-900 mb-4">Shop Page</h1>
           <p className="text-lg text-gray-600">
-            Let's shop from the place you always imagined.
+            Let&apos;s shop from the place you always imagined.
           </p>
         </div>
       </div>
