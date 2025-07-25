@@ -1,6 +1,6 @@
 # 3legant. E-commerce Store
 
-A modern e-commerce store built with Next.js, TypeScript, and Tailwind CSS for the Ebra Full-Stack Developer Assessment.
+A modern e-commerce store built with Next.js, TypeScript, and Tailwind CSS .
 
 ## 🛍️ Features
 
@@ -275,12 +275,9 @@ No environment variables are required for this project as it uses the public Fak
 
 ## 🚀 Deployment
 
-### Vercel (Recommended)
+### Vercel (available)
 
-```bash
-npm install -g vercel
-vercel
-```
+Navigate to [https://ebra-ecommerce-store.vercel.app/](https://ebra-ecommerce-store.vercel.app/)
 
 ### Other Platforms
 
@@ -292,22 +289,6 @@ This Next.js application can be deployed to:
 - AWS Amplify
 - Any Node.js hosting provider
 
-## 📝 Notes
-
-### Assignment Requirements
-
-This project fulfills all requirements from the Ebra Full-Stack Developer Assessment:
-
-- ✅ Next.js with App Router
-- ✅ TypeScript throughout
-- ✅ Tailwind CSS for styling
-- ✅ Context API for state management
-- ✅ Fake Store API integration
-- ✅ Three main pages (Home, Product Detail, Cart)
-- ✅ Proper error handling
-- ✅ Loading states
-- ✅ Responsive design
-- ✅ README with setup instructions
 
 ### Code Quality
 
@@ -319,4 +300,4 @@ This project fulfills all requirements from the Ebra Full-Stack Developer Assess
 
 ---
 
-**Built with Next.js By MAZEN for Ebra**
+**Built By MAZEN for Ebra 🚀**
